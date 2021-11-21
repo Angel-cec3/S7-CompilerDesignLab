@@ -1,0 +1,6 @@
+#include<string.h>
+void main()
+{
+int a,b,c;
+c = a+123;
+}
